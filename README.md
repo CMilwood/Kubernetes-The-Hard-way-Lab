@@ -1,7 +1,6 @@
 # Kubernetes-The-Hard-way-Lab
 Building a Kubernetes cluster from scratch using Fedora Server across multiple physical and virtual hosts.
-
-# Kubernetes The Hard Way — Homelab
+----------------------------------------------------------------------------------------------------------------------------------------
 
 This repository documents building a Kubernetes cluster from scratch
 using the *Kubernetes The Hard Way* approach, adapted for a personal

@@ -184,15 +184,3 @@ ping <Dell-IP>
 
 ---
 
-This version is **ready to paste directly** into a `.md` file or GitHub web editor — it will render perfectly with:
-
-- Headings
-    
-- Bullets
-    
-- Tables
-    
-- Command/code blocks with monospace font
-    
-
----

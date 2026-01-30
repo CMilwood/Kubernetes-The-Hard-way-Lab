@@ -171,16 +171,3 @@ ping <Dell-IP>
 
 ---
 
-### Notes / Lessons Learned
-
-- Always verify IPs after moving a machine to a new physical network; NAT vs bridged is critical.
-    
-- Cockpit shows hostnames differently depending on DNS / IP; don’t panic if URL changes.
-    
-- Fedora Server + systemd-networkd needs explicit `.network` files for DHCP — missed this after moving Lenovo.
-    
-- Planning physical topology **before starting Kubernetes** saves hours of troubleshooting.
-    
-
----
-
